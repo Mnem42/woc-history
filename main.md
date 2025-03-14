@@ -1,4 +1,8 @@
-# Introduction
+# Woc history
+
+*This markdown file's contents were originally plagiarised from [this](https://docs.google.com/document/d/1tl46reu2qjMYFvGOAILWCUb3HDOgEtGEUzeMOzO0Y40/) google doc.*
+
+## Introduction
 
 Greetings, dear readers.
 
@@ -15,15 +19,15 @@ I am just a newcomer, passing by, seeing the fun they had- no, they fun WE had. 
 
 Before we begin, let us get familiar with some of our members.
 
-## Verq
+### Verq
 
 The admin who wishes to marry Rust.
 
-## Disassembled
+### Disassembled
 
-The admin who everyone fears. The mere mention of his name sends shivers down the spine of newcomers!
+The admin who everyone fears. The mere mention of his name sends shivers down the spine of newcomers! He acts reasonably, even though it doesn't look like it to many users
 
-## MTF Alpha-1 (“Red Right Hand”)
+### MTF Alpha-1 (“Red Right Hand”)
 
 Ah, the infamous SCP Foundation personnel. A warrior against brainrot, a shadow in the server’s history, and perhaps its greatest enigma. Alpha was once among the most active members, even achieving a legendary milestone—over 15,000 messages in a single month, a record untouched by mere mortals.
 
@@ -33,18 +37,18 @@ Jack ma - Also called “CEO of Dina” is the user which started a revolution i
 
 Lemons - #LemonsTheHottie, a legend (or lemon) in his own right, known for his charm, wit, and the undeniable fact that he’s just built different.
 
-## Owen
+### Owen
 
 Chill server owner. Perhaps the only truly sane one here. Reports also includes that he lives in a british army base. Obsessed with tea and bri’ishness
 
-## Sloppy
+### Sloppy
 
 The most degenerate, goofy, uncool, ugly person in this server. Recommended do not talk to him. Very nice cat that says “sup”.
 
-## Kanata
+### Kanata
 
 WoC’s chill guy who loves katanas. A true connoisseur of the blade. Cross him, and, well… let’s just say no one has lived to tell the tale.
 
-## Mnem
+### Mnem
 
 “If it compiles, it ships”. This user denies allegations of having posted this quote. Has made an odd flag for MTF alpha.
