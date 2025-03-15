@@ -1,6 +1,6 @@
 # README
 
-Go to [main.md](main.md)
+Go to [main.md](src/woc-history/entries/main.md)
 
 
 ## Credits
