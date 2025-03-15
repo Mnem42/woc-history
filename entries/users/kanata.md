@@ -1,8 +1,8 @@
 # Kanata
 
-> I beg you  
-  Change me
+> monkey
 
-WoC’s chill guy who loves katanas. A true connoisseur of the blade. Cross him, and, well… let’s just say no one has lived to tell the tale.
+MTF is a loser and Ivaansri is my pookie 💔
+I can actually program 
 
 ![pfp](../../assets/kanata.webp)
