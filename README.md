@@ -7,6 +7,6 @@ Go to [main.md](main.md)
 
 Thanks to : 
 
-MTF-alpha for **allegedly** writing the initial document
-Mnem for putting it in a GitHub repo.
+MTF-alpha for **allegedly** writing the initial document <br>
+Mnem for putting it in a GitHub repo. <br>
 And Evil -me- for editing :)
