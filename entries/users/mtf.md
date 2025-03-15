@@ -4,8 +4,8 @@ Ah, the infamous SCP Foundation personnel. A warrior against brainrot, a shadow 
 
 But with great activity comes great… exile. Alpha was no stranger to controversy, amassing an army of alt accounts—some say more than 10, though the true number may never be known. Over half of them met their untimely demise at the hands of the banhammer, yet whispers persist…
 Alpha is still here. Watching. Waiting. Lurking in the depths of the server, prepared to strike at the first sign of degeneracy. When the server teeters on the brink of chaos, when brainrot spreads unchecked, fear not—for MTF Alpha-1 still stands guard. He is known by many names, including but not limited to: Hopeless Child, Angel of Death, Main Battle Tank, Putin’s son in law and many more.
-Jack ma - Also called “CEO of Dina” is the user which started a revolution in modern WoC.
 
-Lemons - #LemonsTheHottie, a legend (or lemon) in his own right, known for his charm, wit, and the undeniable fact that he’s just built different.
 
-methinks the original creator was paid to glaze this user.
+methinks the original creator was paid to glaze this user.  
+This guy is such a dumbass and bro was glazing himself, doesn't even know scps properly and yet calls himself and
+truly a dumbass
