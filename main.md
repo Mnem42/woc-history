@@ -2,6 +2,7 @@
 
 *The contents were originally plagiarised from [this](https://docs.google.com/document/d/1tl46reu2qjMYFvGOAILWCUb3HDOgEtGEUzeMOzO0Y40/) google doc.*
 
+- [Introduction](introduction.md)
 - Users
   - [disassembled](entries/users/disassembled.md)
   - [kanata](entries/users/kanata.md)
