@@ -11,5 +11,6 @@
   - [owen](entries/users/owen.md)
   - [sloppy](entries/users/sloppy.md)
   - [verq](entries/users/verq.md)
+  - [evil](entries/users/evil.md)
 - Other
   - [The duck cult](entries/other/duck-cult.md)
