@@ -1,5 +1,4 @@
 # The duck cult
+The duck cult is an important aspect of the server's legacy,   It is a cult created by "Duckie | Duck Cult Leader",  An ambitious duck that aims to defend duck's rights against the wild,  Barbarian and uneducated humans who violate them,
 
-The duck cult is a certain organisation led by a knife-wielding stuffed duck, also known as duckie. It now has expanded to dozens of members of many descriptions.
-
-These include nameunknown, duckie, evil, and many others.
+Members include nameunknown, duckie, evil, and many others.
