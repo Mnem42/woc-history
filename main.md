@@ -14,5 +14,6 @@
   - [ludwig](entries/users/ludwig.md)
   - [ivaansri](entries/users/ivaansri.md)
   - [evil](entries/users/evil.md)
+  - [plinko ball](entries/users/plinkoball.md)
 - Other
   - [The duck cult](entries/other/duck-cult.md)
