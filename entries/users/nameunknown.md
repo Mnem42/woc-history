@@ -2,4 +2,4 @@
 
 ![Is ok](https://badgen.net/static/status/ok/green?icon=discord)
 
-Has default green pfp.
+Has default green pfp, but with a moustache.
