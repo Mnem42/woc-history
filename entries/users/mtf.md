@@ -1,5 +1,7 @@
 # MTF Alpha-1 (“Red Right Hand”)
 
+![Is banned](https://badgen.net/static/status/banned/red?icon=discord)
+
 Ah, the infamous SCP Foundation personnel. A warrior against brainrot, a shadow
 in the server’s history, and perhaps its greatest enigma. Alpha was once among
 the most active members, even achieving a legendary milestone—over 15,000 messages

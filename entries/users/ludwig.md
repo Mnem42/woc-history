@@ -1,6 +1,6 @@
 # Ludwig
 
-![Is banned](https://badgen.net/#static/status/banned/red?icon=discord)
+![Is banned](https://badgen.net/static/status/banned/red?icon=discord)
 
 Totally a good person with good intentions
 
