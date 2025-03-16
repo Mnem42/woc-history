@@ -4,4 +4,4 @@
 
 The admin who wishes to marry Rust.
 
-![pfp](../../assets/verq.png)
+![pfp](../../assets/pfp/verq.png)
