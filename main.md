@@ -4,16 +4,20 @@
 
 - [Introduction](introduction.md)
 - Users
-  - [disassembled](entries/users/disassembled.md)
-  - [kanata](entries/users/kanata.md)
-  - [mnem](entries/users/mnem.md)
-  - [MTF alpha](entries/users/mtf.md)
-  - [owen](entries/users/owen.md)
-  - [sloppy](entries/users/sloppy.md)
-  - [verq](entries/users/verq.md)
-  - [ludwig](entries/users/ludwig.md)
-  - [ivaansri](entries/users/ivaansri.md)
-  - [evil](entries/users/evil.md)
-  - [plinko ball](entries/users/plinkoball.md)
+  - Moderator/admin/owner
+    - [owen](entries/users/owen.md)
+    - [disassembled](entries/users/disassembled.md)
+    - [verq](entries/users/verq.md)
+    - [evil](entries/users/evil.md)
+  - Normal
+    - [kanata](entries/users/kanata.md)
+    - [mnem](entries/users/mnem.md)
+    - [sloppy](entries/users/sloppy.md)
+    - [ivaansri](entries/users/ivaansri.md)
+    - [plinko ball](entries/users/plinkoball.md)
+    - [duckie](entries/users/duckie.md)
+  - Banned
+    - [MTF alpha](entries/users/mtf.md)
+    - [ludwig](entries/users/ludwig.md)
 - Other
   - [The duck cult](entries/other/duck-cult.md)
