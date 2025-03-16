@@ -23,3 +23,4 @@
     - [ludwig](entries/users/ludwig.md)
 - Other
   - [The duck cult](entries/other/duck-cult.md)
+  - [Explanation of things](entries/other/explanation.md)
