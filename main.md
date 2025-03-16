@@ -7,6 +7,7 @@
   - Moderator/admin/owner
     - [owen](entries/users/owen.md)
     - [disassembled](entries/users/disassembled.md)
+    - [spaceboy](entries/users/spaceboy.md)
     - [verq](entries/users/verq.md)
     - [evil](entries/users/evil.md)
   - Normal
@@ -17,6 +18,8 @@
     - [plinko ball](entries/users/plinkoball.md)
     - [duckie](entries/users/duckie.md)
     - [chris](entries/users/chris.md)
+    - [reanore](entries/users/reanore.md)
+    - [nameunknown](entries/users/nameunknown.md)
     - [tanoshii](entries/users/tanoshii.md)
   - Banned
     - [MTF alpha](entries/users/mtf.md)
