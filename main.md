@@ -21,9 +21,11 @@
     - [reanore](entries/users/reanore.md)
     - [nameunknown](entries/users/nameunknown.md)
     - [tanoshii](entries/users/tanoshii.md)
+    - [rolfan](entries/users/rolfan.md)
   - Banned
     - [MTF alpha](entries/users/mtf.md)
     - [ludwig](entries/users/ludwig.md)
+    - [jack ma](entries/users/jackma.md)
 - Other
   - [The duck cult](entries/other/duck-cult.md)
   - [Explanation of things](entries/other/explanation.md)
