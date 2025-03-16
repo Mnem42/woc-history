@@ -16,6 +16,8 @@
     - [ivaansri](entries/users/ivaansri.md)
     - [plinko ball](entries/users/plinkoball.md)
     - [duckie](entries/users/duckie.md)
+    - [chris](entries/users/chris.md)
+    - [tanoshii](entries/users/tanoshii.md)
   - Banned
     - [MTF alpha](entries/users/mtf.md)
     - [ludwig](entries/users/ludwig.md)
