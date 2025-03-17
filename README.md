@@ -1,6 +1,6 @@
 # README
 
-Go to [main.md](entries/main.md)
+Go to [main.md](main.md) or [introduction.md](introduction.md)
 
 ## Credits
 
