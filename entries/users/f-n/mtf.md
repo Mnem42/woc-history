@@ -29,3 +29,19 @@ MTF glazing himself, he didn't even try to hide it. - *Mnem*
 
 This guy is such a dumbass and bro was glazing himself, doesn't even know scps properly and yet calls himself and
 truly a dumbass - *Kanata*
+
+<img src="../../../assets/images/mtf-alt1.png"
+    width="100px" 
+    title="MTF admitting that he's duck cult alchemist" alt= "MTF admitting that he's duck cult alchemist"
+/>
+<span>
+    <img src="../../../assets/pfp/mtf.png" 
+        width="218px"
+        alt = "pfp"
+    /> <br/>
+    <img src="../../../assets/images/mtf-alt2.png" 
+         width="323px"
+         title="MTF admitting that he's rizzslayer69 and Food Eater"
+         alt="MTF admitting that he's rizzslayer69 and Food Eater"
+    />
+</span>
