@@ -8,4 +8,4 @@ MTF is a loser and Ivaansri is my pookie
 
 I can actually program.
 
-![pfp](../../assets/pfp/kanata.webp)
+![pfp](../../../assets/pfp/kanata.webp)

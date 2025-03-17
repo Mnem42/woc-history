@@ -4,4 +4,4 @@
 
 Has default green pfp, but with a moustache.
 
-![pfp](../../assets/pfp/nameunknown.png)
+![pfp](../../../assets/pfp/nameunknown.png)

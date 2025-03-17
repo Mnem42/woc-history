@@ -31,16 +31,16 @@ This guy is such a dumbass and bro was glazing himself, doesn't even know scps p
 truly a dumbass - *Kanata*
 
 <img src="../../../assets/images/mtf-alt1.png"
-    width="100px" 
+    width="15%" 
     title="MTF admitting that he's duck cult alchemist" alt= "MTF admitting that he's duck cult alchemist"
 />
 <span>
     <img src="../../../assets/pfp/mtf.png" 
-        width="218px"
+        width="32%"
         alt = "pfp"
     /> <br/>
     <img src="../../../assets/images/mtf-alt2.png" 
-         width="323px"
+         width="48%"
          title="MTF admitting that he's rizzslayer69 and Food Eater"
          alt="MTF admitting that he's rizzslayer69 and Food Eater"
     />

@@ -4,4 +4,4 @@
 
 > I ain't smart, I just come up with smart reasons to do stupid stuff.
 
-![pfp](../../assets/pfp/evil.webp)
+![pfp](../../../assets/pfp/evil.webp)
