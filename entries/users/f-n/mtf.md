@@ -19,6 +19,7 @@ still stands guard. He is known by many names, including but not limited to:
 Hopeless Child, Angel of Death, Main Battle Tank, Putin’s son in law and many
 more.
 
-methinks the original creator was paid to glaze this user.  
+MTF glazing himself, he didn't even try to hide it. - *Mnem*
+
 This guy is such a dumbass and bro was glazing himself, doesn't even know scps properly and yet calls himself and
-truly a dumbass
+truly a dumbass - *Kanata*
