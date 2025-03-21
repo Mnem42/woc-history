@@ -25,7 +25,8 @@ more.
 - Food eater (admitted)
 - Rizzslayer69 (admitted)
 
-MTF glazing himself, he didn't even try to hide it. - *Mnem*
+MTF glazing himself, he didn't even try to hide it. Cracks under pressure too
+easily to be able to hide his alts *at all* - *Mnem*
 
 This guy is such a dumbass and bro was glazing himself, doesn't even know scps properly and yet calls himself and
 truly a dumbass - *Kanata*

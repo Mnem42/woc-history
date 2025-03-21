@@ -29,3 +29,7 @@
 - Other
   - [The duck cult](entries/other/duck-cult.md)
   - [Explanation of things](entries/other/explanation.md)
+  
+## List of stubs
+
+- [rolfan](entries/users/o-r/rolfan.md)
