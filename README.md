@@ -10,3 +10,4 @@ Thanks to :
 - **Mnem** for putting it in a GitHub repo.
 - **Evil** -me- for editing :)  
 - **kanata** (me) for editing as well :3
+- **pancakes** for updating stufff
