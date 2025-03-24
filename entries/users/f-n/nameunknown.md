@@ -4,5 +4,5 @@
 
 Had a default green pfp, but with a moustache.
 
-![pfp](assets/pfp/nameunknownnew.png)
-![old-pfp](assets/pfp-archives/nameunknown.png)
+![pfp](../../../assets/pfp/nameunknown.png)
+![old-pfp](../../../assets/pfp-archives/nameunknown.png)
