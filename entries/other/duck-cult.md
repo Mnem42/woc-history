@@ -15,6 +15,7 @@ and help spread the message of the duck cult.
 - [Duckie](../users/duckie.md) (Leader)
 - [Evil](../users/evil.md) (Sergeant)
 - [Tanoshii](../users/tanoshii.md) (Hitman)
-- [Mnem](../users/mnem.md) (0.1x dev)
+- [Mnem](../users/mnem.md) (0.5x dev)
 - [Chris](../users/chris.md) (Member)
 - [Nameunknown](../users/nameunknown.md) (Duck slave)
+- [Pancakes](../../assets/pfp/pancakes.jpg) (Emergency Food Source)

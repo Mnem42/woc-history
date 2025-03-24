@@ -21,6 +21,7 @@
     - [reanore](entries/users/reanore.md)
     - [nameunknown](entries/users/nameunknown.md)
     - [tanoshii](entries/users/tanoshii.md)
+    - [pancakes](entries/users/pancakes.md)
   - Banned
     - [MTF alpha](entries/users/mtf.md)
     - [ludwig](entries/users/ludwig.md)
