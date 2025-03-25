@@ -22,6 +22,7 @@
     - [nameunknown](entries/users/nameunknown.md)
     - [tanoshii](entries/users/tanoshii.md)
     - [pancakes](entries/users/pancakes.md)
+    - [hristov](entries/users/hristov.md)
   - Banned
     - [MTF alpha](entries/users/f-n/mtf.md)
     - [ludwig](entries/users/f-n/ludwig.md)
