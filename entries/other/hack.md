@@ -7,6 +7,6 @@ the real mods, and then also proceeded to ban a bunch of random people for littl
 no reason, all under [nick](../users/f-n/nick.md)'s (now compromised) account.
 
 Currently, the [duck cult](duck-cult.md) server and a temporary replacement server
-named "World of Coding", created by moogly are being used.
+named "World of Coders", created by moogly are being used.
 
 ![An announcement hacked nick made](../../assets/images/hacked-nick-announcement.png)
