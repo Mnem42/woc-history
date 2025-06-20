@@ -37,3 +37,4 @@
 ## List of stubs
 
 - [rolfan](entries/users/o-r/rolfan.md)
+- [jack ma](entries/users/f-n/jackma.md)

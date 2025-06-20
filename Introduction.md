@@ -1,5 +1,7 @@
 # Introduction
 
+*This was written almost entirely by mtf*
+
 Greetings, dear readers.
 
 "Unofficial History of WoC" - one would ask the purpose behind this book. Why should one care about a small, close-knit Discord server about coding? Why should I write this book? The answer to these questions will be revealed as you read on.
