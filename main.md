@@ -32,6 +32,7 @@
 - Other
   - [The duck cult](entries/other/duck-cult.md)
   - [Explanation of things](entries/other/explanation.md)
+  - [WoC getting hacked](entries/other/hack.md)
   
 ## List of stubs
 
