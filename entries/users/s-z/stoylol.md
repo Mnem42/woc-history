@@ -1,7 +1,10 @@
 # Stoylol
 
-Is either the one who hacked nick's account, or affiliated with whoever hacked
-it. He also decided to ban a bunch of members for little or no reason.
+![is hacker](https://badgen.net/badge/color/hacker/red?label=)
+
+Was involved in the woc hack. He ended up banning most of the active people in woc,
+and also a lot of inactive people. He is in fact, not actually the hacker, and just
+was called in to do the banning.
 
 ![A](../../../assets/woc-dumping-alituma/stoylol/dms/sand0/a.jpg)
 ![B](../../../assets/woc-dumping-alituma/stoylol/dms/sand0/b.jpg)
