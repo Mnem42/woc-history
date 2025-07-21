@@ -2,7 +2,7 @@
 
 *The contents were originally plagiarised from [this](https://docs.google.com/document/d/1tl46reu2qjMYFvGOAILWCUb3HDOgEtGEUzeMOzO0Y40/) google doc.*
 
-- [Introduction](introduction.md)
+- [Introduction](Introduction.md)
 - Users
   - Moderator/admin/owner
     - [owen](entries/users/o-r/owen.md)
