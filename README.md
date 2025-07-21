@@ -1,5 +1,8 @@
 # README
 
+> [!IMPORTANT]
+> This repo is archived because woc has been hacked and is now dead. rip woc.
+
 Go to [main.md](main.md) or [introduction.md](introduction.md) if you're in the mood to read yap.
 
 ## Credits

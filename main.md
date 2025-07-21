@@ -1,8 +1,5 @@
 # Woc history
 
-> [!IMPORTANT]
-> This repo is archived because woc has been hacked and is now dead. rip woc.
-
 *The contents were originally plagiarised from [this](https://docs.google.com/document/d/1tl46reu2qjMYFvGOAILWCUb3HDOgEtGEUzeMOzO0Y40/) google doc.*
 
 - [Introduction](introduction.md)
